@@ -1,0 +1,102 @@
+[
+    {
+        "command": "LOAD_CONST",
+        "operand_1": 50,
+        "operand_2": 0
+    },
+    {
+        "command": "STORE_MEM",
+        "operand_1": 100,
+        "operand_2": 0
+    },
+    {
+        "command": "LOAD_CONST",
+        "operand_1": 75,
+        "operand_2": 0
+    },
+    {
+        "command": "STORE_MEM",
+        "operand_1": 101,
+        "operand_2": 0
+    },
+    {
+        "command": "LOAD_CONST",
+        "operand_1": 200,
+        "operand_2": 0
+    },
+    {
+        "command": "STORE_MEM",
+        "operand_1": 102,
+        "operand_2": 0
+    },
+    {
+        "command": "LOAD_CONST",
+        "operand_1": 300,
+        "operand_2": 0
+    },
+    {
+        "command": "STORE_MEM",
+        "operand_1": 103,
+        "operand_2": 0
+    },
+    {
+        "command": "LOAD_MEM",
+        "operand_1": 100,
+        "operand_2": 0
+    },
+    {
+        "command": "MIN_OP",
+        "operand_1": 185,
+        "operand_2": 0
+    },
+    {
+        "command": "STORE_MEM",
+        "operand_1": 100,
+        "operand_2": 0
+    },
+    {
+        "command": "LOAD_MEM",
+        "operand_1": 101,
+        "operand_2": 0
+    },
+    {
+        "command": "MIN_OP",
+        "operand_1": 185,
+        "operand_2": 0
+    },
+    {
+        "command": "STORE_MEM",
+        "operand_1": 101,
+        "operand_2": 0
+    },
+    {
+        "command": "LOAD_MEM",
+        "operand_1": 102,
+        "operand_2": 0
+    },
+    {
+        "command": "MIN_OP",
+        "operand_1": 185,
+        "operand_2": 0
+    },
+    {
+        "command": "STORE_MEM",
+        "operand_1": 102,
+        "operand_2": 0
+    },
+    {
+        "command": "LOAD_MEM",
+        "operand_1": 103,
+        "operand_2": 0
+    },
+    {
+        "command": "MIN_OP",
+        "operand_1": 185,
+        "operand_2": 0
+    },
+    {
+        "command": "STORE_MEM",
+        "operand_1": 103,
+        "operand_2": 0
+    }
+]
