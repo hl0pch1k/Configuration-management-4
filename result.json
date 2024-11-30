@@ -1,0 +1,98 @@
+[
+    {
+        "command": "LOAD_CONST",
+        "value": 50
+    },
+    {
+        "command": "STORE_MEM",
+        "address": 100,
+        "value": 50
+    },
+    {
+        "command": "LOAD_CONST",
+        "value": 75
+    },
+    {
+        "command": "STORE_MEM",
+        "address": 101,
+        "value": 75
+    },
+    {
+        "command": "LOAD_CONST",
+        "value": 200
+    },
+    {
+        "command": "STORE_MEM",
+        "address": 102,
+        "value": 200
+    },
+    {
+        "command": "LOAD_CONST",
+        "value": 300
+    },
+    {
+        "command": "STORE_MEM",
+        "address": 103,
+        "value": 300
+    },
+    {
+        "command": "LOAD_MEM",
+        "address": 100,
+        "value": 50
+    },
+    {
+        "command": "MIN_OP",
+        "address": 185,
+        "value": 0
+    },
+    {
+        "command": "STORE_MEM",
+        "address": 100,
+        "value": 0
+    },
+    {
+        "command": "LOAD_MEM",
+        "address": 101,
+        "value": 75
+    },
+    {
+        "command": "MIN_OP",
+        "address": 185,
+        "value": 0
+    },
+    {
+        "command": "STORE_MEM",
+        "address": 101,
+        "value": 0
+    },
+    {
+        "command": "LOAD_MEM",
+        "address": 102,
+        "value": 200
+    },
+    {
+        "command": "MIN_OP",
+        "address": 185,
+        "value": 0
+    },
+    {
+        "command": "STORE_MEM",
+        "address": 102,
+        "value": 0
+    },
+    {
+        "command": "LOAD_MEM",
+        "address": 103,
+        "value": 300
+    },
+    {
+        "command": "MIN_OP",
+        "address": 185,
+        "value": 0
+    },
+    {
+        "command": "STORE_MEM",
+        "address": 103,
+        "value": 0
+    }
+]
